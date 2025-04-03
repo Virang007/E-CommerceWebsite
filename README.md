@@ -29,5 +29,5 @@ A **fully responsive** E-Commerce website built using **HTML, CSS, JavaScript, a
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-username/ecommerce-website.git
+   git clone https://github.com/Virang007/E-CommerceWebsite.git
    cd ecommerce-website
